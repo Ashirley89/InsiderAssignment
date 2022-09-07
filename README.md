@@ -34,7 +34,7 @@ Scenario 2 (Submit a Contact Us Message)
 - Click Submit
 
 Scenario 3 (Use the Search box feature to find a Watch and add it to the Cart)
-- Navigate to https://magento.softwaretestingboard.com/contact/
+- Navigate to https://magento.softwaretestingboard.com/
 - Click Search bar and type Watch
 - Click Search button
 - Click Watch Image
